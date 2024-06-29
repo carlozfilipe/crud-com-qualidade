@@ -1,1 +1,19 @@
-Criando um CRUD com TS.
+{
+  "todos": [
+    {
+      "date": "28/06/2024, 23:43:48",
+      "content": "Primeira TODO!",
+      "done": false
+    },
+    {
+      "date": "28/06/2024, 23:43:48",
+      "content": "Segunda TODO!",
+      "done": false
+    },
+    {
+      "date": "28/06/2024, 23:43:48",
+      "content": "Terceira TODO!",
+      "done": false
+    }
+  ]
+}
