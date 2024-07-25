@@ -1,18 +1,21 @@
 {
   "todos": [
     {
-      "date": "28/06/2024, 23:43:48",
+      "id": "0abc0ba5-fc1d-47f8-a651-840bc48dcaf7",
+      "date": "24/07/2024, 23:35:51",
       "content": "Primeira TODO!",
       "done": false
     },
     {
-      "date": "28/06/2024, 23:43:48",
+      "id": "a16b018f-05b0-4bdf-885b-09c98ac098ff",
+      "date": "24/07/2024, 23:35:51",
       "content": "Segunda TODO!",
       "done": false
     },
     {
-      "date": "28/06/2024, 23:43:48",
-      "content": "Terceira TODO!",
+      "id": "20340c2f-26b7-4872-8d32-b5a913bad339",
+      "date": "24/07/2024, 23:35:51",
+      "content": "Atualização monstra!",
       "done": false
     }
   ]
